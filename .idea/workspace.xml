@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="be86da33-4bf7-4eb4-a962-e8e1260dac3e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../IdeaProjects.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/src/main/java/com/edison/project/ProjectApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/src/main/java/com/edison/project/common/exception/ExceptionAdvice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/src/main/java/com/edison/project/common/exception/GeneralException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/src/main/java/com/edison/project/common/response/ApiResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/src/main/java/com/edison/project/common/response/PageInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/src/main/java/com/edison/project/common/status/ErrorStatus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/src/main/java/com/edison/project/common/status/SuccessStatus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/src/main/java/com/edison/project/domain/artletter/controller/ArtletterController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/src/main/java/com/edison/project/domain/artletter/dto/ArtletterDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/src/main/java/com/edison/project/domain/artletter/entity/Artletter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/src/main/java/com/edison/project/domain/artletter/entity/ArtletterCategory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/src/main/java/com/edison/project/domain/artletter/entity/ArtletterLikes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/src/main/java/com/edison/project/domain/artletter/repository/ArtletterLikesRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/src/main/java/com/edison/project/domain/artletter/repository/ArtletterRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/src/main/java/com/edison/project/domain/artletter/repository/ArtletterRepositoryCustom.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/src/main/java/com/edison/project/domain/artletter/repository/ArtletterRepositoryCustomImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/src/main/java/com/edison/project/domain/artletter/service/ArtletterService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/src/main/java/com/edison/project/domain/artletter/service/ArtletterServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/src/main/java/com/edison/project/domain/bubble/controller/BubbleRestController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/src/main/java/com/edison/project/domain/bubble/dto/BubbleRequestDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/src/main/java/com/edison/project/domain/bubble/dto/BubbleResponseDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/src/main/java/com/edison/project/domain/bubble/entity/Bubble.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/src/main/java/com/edison/project/domain/bubble/entity/BubbleBacklink.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/src/main/java/com/edison/project/domain/bubble/entity/BubbleLabel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/src/main/java/com/edison/project/domain/bubble/repository/BubbleLabelRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/src/main/java/com/edison/project/domain/bubble/repository/BubbleRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/src/main/java/com/edison/project/domain/bubble/service/BubbleService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/src/main/java/com/edison/project/domain/bubble/service/BubbleServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/src/main/java/com/edison/project/domain/keywords/controller/KeywordsRestController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/src/main/java/com/edison/project/domain/keywords/dto/KeywordsResponseDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/src/main/java/com/edison/project/domain/keywords/entity/Keywords.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/src/main/java/com/edison/project/domain/keywords/repository/KeywordsRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/src/main/java/com/edison/project/domain/keywords/service/KeywordsService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/src/main/java/com/edison/project/domain/keywords/service/KeywordsServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/src/main/java/com/edison/project/domain/label/controller/LabelRestController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/src/main/java/com/edison/project/domain/label/dto/LabelRequestDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/src/main/java/com/edison/project/domain/label/dto/LabelResponseDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/src/main/java/com/edison/project/domain/label/entity/Label.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/src/main/java/com/edison/project/domain/label/repository/LabelRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/src/main/java/com/edison/project/domain/label/service/LabelCommandService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/src/main/java/com/edison/project/domain/label/service/LabelCommandServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/src/main/java/com/edison/project/domain/label/service/LabelQueryService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/src/main/java/com/edison/project/domain/label/service/LabelQueryServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/src/main/java/com/edison/project/domain/member/controller/MemberRestController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/src/main/java/com/edison/project/domain/member/dto/MemberRequestDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/src/main/java/com/edison/project/domain/member/dto/MemberResponseDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/src/main/java/com/edison/project/domain/member/entity/Member.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/src/main/java/com/edison/project/domain/member/entity/MemberKeyword.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/src/main/java/com/edison/project/domain/member/entity/RefreshToken.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/src/main/java/com/edison/project/domain/member/repository/MemberKeywordRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/src/main/java/com/edison/project/domain/member/repository/MemberRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/src/main/java/com/edison/project/domain/member/repository/RefreshTokenRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/src/main/java/com/edison/project/domain/member/service/CustomOidcUserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/src/main/java/com/edison/project/domain/member/service/MemberService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/src/main/java/com/edison/project/domain/member/service/MemberServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/src/main/java/com/edison/project/domain/member/service/RedisTokenService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/src/main/java/com/edison/project/domain/scrap/entity/Scrap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/src/main/java/com/edison/project/domain/scrap/repository/ScrapRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/src/main/java/com/edison/project/domain/space/controller/SpaceController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/src/main/java/com/edison/project/domain/space/dto/SpaceResponseDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/src/main/java/com/edison/project/domain/space/entity/Space.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/src/main/java/com/edison/project/domain/space/repository/SpaceRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/src/main/java/com/edison/project/domain/space/service/SpaceService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/src/main/java/com/edison/project/domain/space/service/SpaceServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/src/main/java/com/edison/project/global/common/entity/BaseEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/src/main/java/com/edison/project/global/config/AppConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/src/main/java/com/edison/project/global/config/GptConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/src/main/java/com/edison/project/global/config/SchedulingConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/src/main/java/com/edison/project/global/config/SecurityConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/src/main/java/com/edison/project/global/security/CustomAuthenticationEntryPoint.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/src/main/java/com/edison/project/global/security/CustomUserPrincipal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/src/main/java/com/edison/project/global/security/JwtAuthenticationFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/src/main/java/com/edison/project/global/security/JwtAuthenticationToken.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/src/main/java/com/edison/project/global/util/JwtUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/src/main/java/com/edison/project/test/TestController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/src/main/java/com/edison/project/test/TestService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/src/main/resources/data.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/src/test/java/com/edison/project/ProjectApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;yooniicode&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/yooniicode/yooni-springboot",
+    "accountId": "fd27e240-75d6-43d1-b087-b2541cc2994b"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2vFKirEiptOFSPFqlKKUbW2TieQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "week6",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/IdeaProjects/springyooni/yooni-springboot",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IdeaProjects\springyooni\yooni-springboot" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.23774.435" />
+        <option value="bundled-js-predefined-d6986cc7102b-f27c65a3e318-JavaScript-IU-251.23774.435" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="be86da33-4bf7-4eb4-a962-e8e1260dac3e" name="Changes" comment="" />
+      <created>1743735512047</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1743735512047</updated>
+      <workItem from="1743735513299" duration="27000" />
+      <workItem from="1746784050220" duration="670000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

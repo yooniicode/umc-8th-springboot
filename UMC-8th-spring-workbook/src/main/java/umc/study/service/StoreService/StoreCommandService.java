@@ -1,9 +1,9 @@
 // StoreCommandService.java
 package umc.study.service.StoreService;
 
-import umc.study.api.dto.StoreRequestDto;
-import umc.study.api.dto.StoreResponseDto;
+import umc.study.web.dto.StoreRequestDTO;
+import umc.study.web.dto.StoreResponseDTO;
 
 public interface StoreCommandService {
-    StoreResponseDto createStore(StoreRequestDto requestDto);
+    StoreResponseDTO createStore(StoreRequestDTO requestDto);
 }
